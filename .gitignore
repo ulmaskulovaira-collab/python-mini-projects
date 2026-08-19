@@ -1,0 +1,21 @@
+# Служебные материалы локального проекта
+/sources/
+/AGENTS.md
+/.agents/
+/.codex/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Редакторы и система
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Локальные данные игр
+highscore.json
+save.json
